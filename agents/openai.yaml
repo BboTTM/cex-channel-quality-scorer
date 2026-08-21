@@ -1,0 +1,7 @@
+interface:
+  display_name: "CEX Channel Quality Scorer"
+  short_description: "Score Crypto/CEX channel quality with evidence and risk controls"
+  default_prompt: "Use $cex-channel-quality-scorer to score these Crypto/CEX channel or content links with evidence, confidence, risks, and recommendations."
+
+policy:
+  allow_implicit_invocation: true
